@@ -1,5 +1,5 @@
 "dependencies": {
-  "next": "13.x or 14.x",  
+  "next": ">=13.0.0 <15.0.0",  
   "react": "...",
   "react-dom": "..."
 }
